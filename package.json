@@ -9,8 +9,5 @@
   },
   "dependencies": {
     "express": "latest"
-  },
-  "devDependencies": {
-    "parcel-bundler": "^1.6.1"
   }
 }
